@@ -6,7 +6,7 @@
 
 ### Contexto actual en Andalucía y Sevilla
 
-El sector tecnológico en Andalucia, y en concreto en Sevilla, es un motor económico clave, la gran parte de la actividad se encuentra alojada en el Parque Científico y Tecnología Cartua (llamado PCT Cartuja). Está en constante crecimiento, albergando una gran alta densidad de empresas tecnologicas (TIC), que van aumentando su facturación y contratación en los últimos años, de esta manera consolidando a la provincia como referente en innovación digital a nivel nacional.
+El sector tecnológico en **Andalucia**, y en concreto en **Sevilla**, es un motor económico clave, la gran parte de la actividad se encuentra alojada en el Parque Científico y Tecnología Cartua (llamado PCT Cartuja). Está en constante crecimiento, albergando una gran alta densidad de empresas tecnologicas (TIC), que van aumentando su facturación y contratación en los últimos años, de esta manera consolidando a la provincia como referente en innovación digital a nivel nacional.
 
 Además de las compañías grandes, hay una tendencia clara a digitalizar pequeñas y medianas empresas (PYMES) locales. Muchas de estas empresas tienen una infraestructura informática antigua y necesitan modernizarla urgentemente para adaptarse al teletrabajo o a los servicios en la nube. Esta transformación ha creado esa necesidad de renovar equipos y asegurar las comunicaciones, convirtiendo a la tecnología en un requisito de supervivencia para los negocios sevillanos, y no en una simple ventaja más.
 
