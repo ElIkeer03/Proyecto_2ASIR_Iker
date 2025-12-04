@@ -23,7 +23,7 @@ Más allá de grandes multinacionales, también existe una realidad clara, en la
 ### Diagramas
 
 <br>
-<img src="img/graficasjuntaspunto1.jpg" width="100%" height="220" style="object-fit: cover; border-radius: 10px;">
+<img src="img/graficasjuntaspunto1.png" width="100%" height="220" style="object-fit: cover; border-radius: 10px;">
 <br>
 
 
