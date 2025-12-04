@@ -6,7 +6,7 @@ El sector tecnológico en Andalucia, y en concreto en Sevilla, es un motor econ�
 
 Además de las compañías grandes, hay una tendencia clara a digitalizar pequeñas y medianas empresas (PYMES) locales. Muchas de estas empresas tienen una infraestructura informática antigua y necesitan modernizarla urgentemente para adaptarse al teletrabajo o a los servicios en la nube. Esta transformación ha creado esa necesidad de renovar equipos y asegurar las comunicaciones, convirtiendo a la tecnología en un requisito de supervivencia para los negocios sevillanos, y no en una simple ventaja más.
 
-<img src="img/sevillarriba.png" width="100%" alt="Vista Aérea Sevilla">
+<img src="img/sevillarriba.png" width="100%" alt="Sevilla">
 
 ### Oportunidades y tendencias para el perfil ASIR
 
