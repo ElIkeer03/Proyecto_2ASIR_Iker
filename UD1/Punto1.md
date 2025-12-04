@@ -1,4 +1,4 @@
-#1. Análisis del sector tecnológico
+# 1. Análisis del sector tecnológico
 
 <img src="img/sevilla.jpg" width="100%" height="200" style="object-fit: cover; border-radius: 12px;">
 <br>
