@@ -9,7 +9,7 @@ He elegido esta empresa ya que es la principal compañía de ciberseguridad en E
 
 ---
 
-<img src="img/innotec2.png" width="100%" height="220" style="object-fit: cover; border-radius: 10px;">
+<img src="img/innotec2.jpeg" width="100%" height="220" style="object-fit: cover; border-radius: 10px;">
 <br>
 
 La estructura operativa de esta empresa, se centra básicamente en el **SmartSOC** (Centro de Operaciones de Seguridad Inteligente) el cuál está disponible siempre, es apoyado por divisiones especializadas de **Red Team** (ofensiva) y **Blue Team** (defensa). Por decirlo así y entenderlo mejor, es cómo un ecosistema, la administración de sistemas es el núcleo del negocio. Se gestionan arquitecturas complejas cómo **SIEM (sistema que centraliza y analiza logs de la red para detectar amenazas)**, orquestadores **SOAR(plataforma que automatiza respuestas ante incidentes, bloquea ip atacante sin ayuda de una persona)** y firewalls de última y nueva generación. esta dependencia tecnológica hace que se puedan detectar necesidades reales para el proyecto, como la automatización de respuestas, gestion de identidades (IAM) y la fortificación de servidores, de esta manera cumpliendo lo que se pide en el proyecto de clase.
