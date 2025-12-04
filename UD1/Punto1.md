@@ -2,8 +2,8 @@
 
 ### Contexto actual en Andalucía y Sevilla
 
-El sector tecnológico en **Andalucía** se ha consolidado como un motor económico estratégico, con **Sevilla** como uno de sus principales referentes gracias al impulso del *Parque Científico y Tecnológico Cartuja*. Este entorno concentra una alta densidad de empresas TIC y startups que han mantenido un crecimiento sostenido en facturación y empleo durante el último año, generando un ecosistema dinámico donde la transformación digital es prioritaria tanto para grandes corporaciones como para el tejido de PYMES locales.
+El sector tecnológico en Andalucia, y en concreto en Sevilla, es un motor económico clave, la gran parte de la actividad se encuentra alojada en el Parque Científico y Tecnología Cartua (llamado PCT Cartuja). Está en constante crecimiento, albergando una gran alta densidad de empresas tecnologicas (TIC), que van aumentando su facturación y contratación en los últimos años, de esta manera consolidando a la provincia como referente en innovación digital a nivel nacional.
 
 ### Oportunidades y tendencias para el perfil ASIR
 
-> Ante este crecimiento, existe una demanda real y urgente de profesionales cualificados para gestionar estas infraestructuras. Las empresas sevillanas requieren técnicos capaces de asegurar sus redes, administrar servidores y, especialmente, implementar medidas de **ciberseguridad** robustas para proteger sus datos. Este escenario garantiza una alta empleabilidad para perfiles que puedan responder a la necesidad de modernización y protección de los sistemas corporativos.
+> Viendo este panorama, el perfil de Técnico Superior en ASIR tiene muchas salidas. Al final, todo ese crecimiento necesita una base sólida: las empresas buscan gente que sepa administrar **servidores**, montar **redes locales** seguras y gestionar servicios en la **nube**. No basta con tener ordenadores, hacen falta técnicos que mantengan la infraestructura funcionando, gestionen usuarios y aseguren que no se pierdan datos con buenas copias de seguridad.
