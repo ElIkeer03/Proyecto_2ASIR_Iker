@@ -1,6 +1,6 @@
 # 1. Análisis del sector tecnológico
 
-<img src="img/sevilla.jpg" width="100%" height="220" style="object-fit: cover; border-radius: 10px;">
+<img src="img/sevilla2.jpg" width="100%" height="220" style="object-fit: cover; border-radius: 10px;">
 <br>
 
 ### Contexto actual en Andalucía y Sevilla
