@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="img/sevillarriba.png" width="100%" alt="Sevilla">
-  <br>
+  <img src="img/sevilla.jpg" width="100%" style="object-fit: cover; height: 250px; border-radius: 10px;" alt="Sevilla Tech Cartuja">
+  <br><br>
   <h1>1. Análisis del sector tecnológico</h1>
 </div>
 
