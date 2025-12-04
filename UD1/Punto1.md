@@ -21,9 +21,9 @@ Más allá de grandes multinacionales, también existe una realidad clara, en la
 
 ---
 ### Diagramas
-
-<br>
-<img src="img/graficasjuntaspunto1.png" width="100%" height="220" style="object-fit: cover; border-radius: 10px;">
-<br>
+|  Facturación |  Impacto Económico |  Empresas |
+| :---: | :---: | :---: |
+| <img src="img/graficasjuntaspunto1.png" width="200"> | <img src="img/grafica_pib.png" width="200"> | <img src="img/grafica_sectores.png" width="200"> |
+| Crecimiento récord del **8,3%**, llegando a los **4.850 M€**. | El parque genera por sí solo el **10% del PIB** de Sevilla. | Hay **557 empresas**, el 59% de tecnología avanzada. |
 
 
