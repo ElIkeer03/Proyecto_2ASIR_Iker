@@ -18,3 +18,6 @@ Más allá de grandes multinacionales, también existe una realidad clara, en la
 ### Oportunidades y tendencias para el perfil ASIR
 
 > Ante esta escena, el perfil de **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)** tiene una proyección laboral excelente. Con tantas empresas dependiendo de su infraestructura digital, realmente si existe una gran demanda real de profesionales cualificados para poder administrar **servidores**, poder desplegar **redes locales** seguras y poder gestionar la **nube**. El mercado no solo busca a alguien que instale equipos, sino a técnicos que sean capaces de garantizar que el sistema no falle, gestionar copias de seguridad y proteger los datos de la empresa/corporativos.
+
+---
+### Diagramas
