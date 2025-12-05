@@ -19,7 +19,7 @@ La estructura operativa de esta empresa, se centra básicamente en el **SmartSOC
 ### Diagramas
 
 <br>
-<img src="img/graficasjuntaspunto2.png" width="100%" height="220" style="object-fit: cover; border-radius: 60px;">
+<img src="img/graficasjuntaspunto2.png" width="100%" height="220" style="object-fit: cover; border-radius: 100px;">
 <br>
 
 > **Gráfica 1 (Objetivo de Negocio | Plan Estratégico):** esta gráfica nos enseña el crecimiento oficial desde el cierre de 2023 hasta el objetivo de 2026.
