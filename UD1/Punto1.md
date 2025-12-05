@@ -26,7 +26,9 @@ Más allá de grandes multinacionales, también existe una realidad clara, en la
 <img src="img/graficasjuntaspunto1.png" width="100%" height="220" style="object-fit: cover; border-radius: 10px;">
 <br>
 
-> **Gráfica 1 (Crecimiento de Facturación):** Esta gráfica nos enseña cómo ha subido el dinero que mueven las empresas de Cartuja de un año al otro.
-> **Gráfica 2 (Peso Tecnológico):** 
+> - **Gráfica 1 (Crecimiento de Facturación):** Esta gráfica nos enseña cómo ha subido el dinero que mueven las empresas de Cartuja de un año al otro.
+
+> - **Gráfica 2 (Peso Tecnológico):** 
+
 >
 
