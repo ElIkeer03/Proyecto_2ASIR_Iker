@@ -28,7 +28,7 @@ Más allá de grandes multinacionales, también existe una realidad clara, en la
 
 > - **Gráfica 1 (Crecimiento de Facturación):** Esta gráfica nos enseña cómo ha subido el dinero que mueven las empresas de Cartuja de un año al otro.
 
-> - **Gráfica 2 (Peso Tecnológico):** 
+> - **Gráfica 2 (Impacto Ecnonómico):** Esta gráfica nos enseña el 10% del PIB del que hemos hablado arriba.
 
->
+> - **Gráfica 3 (Peso Tecnológico):** Esta gráfica nos enseña que casi el 60% de la actividad es Tecnología Avanzada, demostrando que sí hacen falta informáticos.
 
