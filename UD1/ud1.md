@@ -79,7 +79,9 @@ A pesar de ser una emppresa grande y avanzada, tienen un elevado volumen de malw
 
 ---
 
-> Desde la perspectiva de los sistemas (ASIR), he detectado la necesidad de implementar una infraestructura de "Malware Lab" automatizado y on-premise (local). Actualmente, la creación y restablecimiento de máquinas virtuales para cada análisis forense consume tiempo valioso de los operadores y recursos de un sistema. Se necesita una solución que orqueste automáticamente la creación de entornos efímeros (Windows/Linux), que capture el tráfico de red y vuelque la memoria RAM para su análisis, de esta manera garantizando que todo el proceso pase dentro de una red estancada (VLAN aislada) que cumpla con la normativa de "información clasificada" que maneja esta empresa que he elegido.
+Desde la perspectiva de los sistemas (ASIR), he detectado la necesidad de implementar una infraestructura de "Malware Lab" automatizado y on-premise (local). Actualmente, la creación y restablecimiento de máquinas virtuales para cada análisis forense consume tiempo valioso de los operadores y recursos de un sistema. Se necesita una solución que orqueste automáticamente la creación de entornos efímeros (Windows/Linux), que capture el tráfico de red y vuelque la memoria RAM para su análisis, de esta manera garantizando que todo el proceso pase dentro de una red estancada (VLAN aislada) que cumpla con la normativa de "información clasificada" que maneja esta empresa que he elegido.
+
+---
 
 - [ ] **4. Oportunidades y viabilidad del proyecto**
 - [ ] **5. Obligaciones legales y normativas**
