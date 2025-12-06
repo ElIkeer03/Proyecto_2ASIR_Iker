@@ -39,6 +39,7 @@ Más allá de grandes multinacionales, también existe una realidad clara, en la
 > - **Gráfica 3 (Peso Tecnológico):** Esta gráfica nos enseña que casi el 60% de la actividad es Tecnología Avanzada, demostrando que sí hacen falta informáticos.
 
 
+
 - [ ] **2. Selección de la empresa o contexto de trabajo**
 
 <img src="img/innotec.png" width="100%" height="220" style="object-fit: cover; border-radius: 10px;">
@@ -66,6 +67,7 @@ La estructura operativa de esta empresa, se centra básicamente en el **SmartSOC
 > **Gráfica 1 (Objetivo de Negocio | Plan Estratégico):** esta gráfica nos enseña el crecimiento oficial desde el cierre de 2023 hasta el objetivo de 2026.
 
 > **Gráfica 2 (Capital Humano):** esta gráfica nos enseña la fuerza laboral actual que sustenta el proyecto.
+
 
 - [ ] **3. Identificación de necesidades tecnológicas**
 
