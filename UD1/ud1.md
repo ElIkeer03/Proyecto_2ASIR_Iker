@@ -69,11 +69,13 @@ La estructura operativa de esta empresa, se centra básicamente en el **SmartSOC
 
 - [ ] **3. Identificación de necesidades tecnológicas**
 
-### 3. Identificación de necesidades tecnológicas (Específico Entelgy)
-
 A pesar de ser una emppresa grande y avanzada, tienen un elevado volumen de malware bancario y ransomware que el smarSOC debe de analizar mensualmente (unas 5.000 muestras) esto genera un cuello de botella en los procesos de análisis manual. Los analistas de Innotec requieren necesitan entornos de ejecución aislados (sandboxes) que nos permitirán detonas esas amenazas de forma segura para observar su comportamiento sin rieso de propagación lateral a la red corporativa o de fuga de datos confidenciales de los clientes fijos hacia nubes públicas de análisis (como VirusTotal, por ejemplo).
 
-Desde la perspectiva de los sistemas (ASIR), he detectado la necesidad de implementar una infraestructura de "Malware Lab" automatizado y on-premise (local). Actualmente, la creación y restablecimiento de máquinas virtuales para cada análisis forense consume tiempo valioso de los operadores y recursos de un sistema. Se necesita una solución que orqueste automáticamente la creación de entornos efímeros (Windows/Linux), que capture el tráfico de red y vuelque la memoria RAM para su análisis, de esta manera garantizando que todo el proceso pase dentro de una red estancada (VLAN aislada) que cumpla con la normativa de "información clasificada" que maneja esta empresa que he elegido.
+
+
+---
+
+> Desde la perspectiva de los sistemas (ASIR), he detectado la necesidad de implementar una infraestructura de "Malware Lab" automatizado y on-premise (local). Actualmente, la creación y restablecimiento de máquinas virtuales para cada análisis forense consume tiempo valioso de los operadores y recursos de un sistema. Se necesita una solución que orqueste automáticamente la creación de entornos efímeros (Windows/Linux), que capture el tráfico de red y vuelque la memoria RAM para su análisis, de esta manera garantizando que todo el proceso pase dentro de una red estancada (VLAN aislada) que cumpla con la normativa de "información clasificada" que maneja esta empresa que he elegido.
 
 - [ ] **4. Oportunidades y viabilidad del proyecto**
 - [ ] **5. Obligaciones legales y normativas**
